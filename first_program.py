@@ -1,4 +1,4 @@
-print("Hello, World!")
+# print("Hello, World!")
 
-print('Hello, Symon!')
+print('Hello, Symon!') # print my name
 

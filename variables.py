@@ -1,7 +1,9 @@
 name = "Symon"
 age = 67
 temperature = 98.9
-email_for_symon = "example@google.com"
+email_4_symon = "example@google.com"
+
+nameForSymon = "jdhfd"
 
 print(name)
 
